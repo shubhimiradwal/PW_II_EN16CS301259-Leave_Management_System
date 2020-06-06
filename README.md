@@ -1,6 +1,7 @@
 # PW_II_EN16CS301259-Leave_Management_System
 
-Project Details
+Project Details:
+
 Project basically automate the manual Leave Management System  
 Employee can apply for new leaves, track there previously applied leaves , edit their profile and the applied leaves can be rejected or approved by the admin
 Admin can add, update and delete employee 
